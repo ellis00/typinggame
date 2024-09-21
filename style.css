@@ -1,0 +1,42 @@
+/* General styling */
+body {
+  background-color: #fff4f7; /* Soft pink */
+  color: #4a4a4a;
+  font-family: 'Merriweather', Montserrat;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Container styling */
+.container {
+  text-align: center;
+  background-color: #fffde7; /* Cream background */
+  padding: 50px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Heading style */
+h1 {
+  color: #ff4d88; /* Soft pink */
+}
+
+/* Input field styling */
+input[type="text"] {
+  padding: 10px;
+  border: 2px solid #ff4d88;
+  border-radius: 5px;
+  width: 80%;
+  margin-top: 20px;
+}
+
+/* Note styling */
+#note {
+  margin-top: 20px;
+  font-size: 1.2em;
+  color: #ff4d88;
+}
