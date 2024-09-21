@@ -13,7 +13,7 @@ document.getElementById('typingInput').addEventListener('input', function(e) {
         case 'scarlett':
             noteElement.innerHTML = "<p><strong>:</strong> That's you! I'm very glad that it was you that I met and asked</p>";
             break;
-        case '22 september':
+       case '22 september':
             noteElement.innerHTML = "<p><strong>:</strong> 22nd September 2023, the day we got together. Now I get a bunch of gifts around the same time as my birthday is right after :p</p>";
             break;
         case 'pink':
